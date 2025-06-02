@@ -76,15 +76,37 @@ curl http://192.168.0.105:3000/ftp/acquisitions.md
 
 ## 📸 Screenshots
 
-| Step                              | Screenshot                                   |
-| --------------------------------- | -------------------------------------------- |
-| 🔗 "About Us" Page                | ![1](./01-about-page-terms-link.png)         |
-| 🛰️ Burp Proxy Request            | ![2](./02-burp-proxy-legal.md-request.png)   |
-| 🧪 Modified Path in Repeater      | ![3](./03-repeater-path-traversal-input.png) |
-| ✅ Response with Confidential Data | ![4](./04-repeater-200-ok-aquisitions.png)   |
-| 🌐 Browser Verification           | ![5](./05-browser-confirm-success.png)       |
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: 20px auto;">
 
----
+  <h3 style="border-bottom: 2px solid #333; padding-bottom: 8px; margin-bottom: 16px;">Steps & Screenshots</h3>
+
+  <div style="margin-bottom: 20px;">
+    <strong style="font-size: 1.1em;">🔗 "About Us" Page</strong><br />
+    <img src="./01-about-page-terms-link.png" alt="About Us Page Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-top: 8px;" />
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong style="font-size: 1.1em;">🛰️ Burp Proxy Request</strong><br />
+    <img src="./02-burp-proxy-legal.md-request.png" alt="Burp Proxy Request Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-top: 8px;" />
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong style="font-size: 1.1em;">🧪 Modified Path in Repeater</strong><br />
+    <img src="./03-repeater-path-traversal-input.png" alt="Modified Path in Repeater Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-top: 8px;" />
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong style="font-size: 1.1em;">✅ Response with Confidential Data</strong><br />
+    <img src="./04-repeater-200-ok-aquisitions.png" alt="Response with Confidential Data Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-top: 8px;" />
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <strong style="font-size: 1.1em;">🌐 Browser Verification</strong><br />
+    <img src="./05-browser-confirm-success.png" alt="Browser Verification Screenshot" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-top: 8px;" />
+  </div>
+
+</div>
+
 
 ## 💣 Real-World Impact
 

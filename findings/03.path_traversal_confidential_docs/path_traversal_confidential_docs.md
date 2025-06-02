@@ -1,5 +1,5 @@
 
-# 🛡️ 03 – Path Traversal Vulnerability: Unauthorized Access to Confidential Documents
+# 🛡️ 03 : Path Traversal Vulnerability: Unauthorized Access to Confidential Documents
 
 ## 🔍 Summary
 
@@ -15,8 +15,7 @@ A **path traversal vulnerability** in the OWASP Juice Shop web application allow
 Visited the default route:
 ```
 
-[http://192.168.0.105:3000/#/about](http://192.168.0.105:3000/#/about)
-
+http://192.168.0.105:3000/#/about
 ```
 This page includes links to markdown-based legal documents, such as `legal.md`.
 

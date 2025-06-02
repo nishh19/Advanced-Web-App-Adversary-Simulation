@@ -1,5 +1,5 @@
 
-# 🛡️ 07 – Price Manipulation via Negative Quantity
+# 🛡️ 07 : Price Manipulation via Negative Quantity
 
 ## ✅ Exploitation Steps
 

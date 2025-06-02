@@ -31,12 +31,11 @@ User enumeration vulnerabilities are **often overlooked but critical** entry poi
 
 ---
 
-## 🖼️ Evidence
-
-| Valid Email Submission                        | Invalid Email Submission                            |
-| --------------------------------------------- | --------------------------------------------------- |
-| ![Valid User](screenshots/existing-email.png) | ![Invalid User](screenshots/non-existing-email.png) |
-
+## 📷 Evidence
+✅ Existing Email – Security Fields Enabled
+<img src="../screenshots/existing-email.png" alt="Existing email input behavior" width="450" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin-bottom: 20px;" />
+❌ Non-existing Email – Security Fields Disabled
+<img src="../screenshots/non-existing-email.png" alt="Non-existing email input behavior" width="450" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
 *Note: Security question fields only become interactive for valid users.*
 
 ---

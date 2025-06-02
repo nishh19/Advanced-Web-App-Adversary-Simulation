@@ -37,7 +37,7 @@ A **reflected Cross-Site Scripting (XSS)** vulnerability was discovered in the s
 
 3. Observe the JavaScript execution—an alert box pops up with the document's cookies.
 
-📸 Screenshot: `xss-success.png`
+<img src="xss-success.png" alt="XSS Success Screenshot" width="700" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.15);" />
 
 ---
 

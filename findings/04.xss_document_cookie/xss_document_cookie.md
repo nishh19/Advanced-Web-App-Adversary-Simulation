@@ -1,5 +1,5 @@
 
-# 🚨 Finding: Cross-Site Scripting (XSS) via Search Field – JavaScript Execution
+# 🚨 04: Cross-Site Scripting (XSS) via Search Field – JavaScript Execution
 
 ## Summary
 

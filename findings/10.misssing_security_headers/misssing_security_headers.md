@@ -1,6 +1,6 @@
 
 
-# 🛡️ Finding 10 – Missing Security Headers
+# 🛡️ 10 – Missing Security Headers
 
 > 💡 **Category:** Security Misconfiguration
 > 🎯 **Target:** [`http://192.168.0.105:3000`](http://192.168.0.105:3000)

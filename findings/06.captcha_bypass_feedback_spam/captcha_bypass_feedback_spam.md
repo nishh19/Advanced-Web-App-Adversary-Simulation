@@ -1,5 +1,5 @@
 
-# 🛡️ 06 – CAPTCHA Bypass & Feedback Spam Automation
+# 🛡️ 06 : CAPTCHA Bypass & Feedback Spam Automation
 
 ## ✅ Exploitation Steps
 

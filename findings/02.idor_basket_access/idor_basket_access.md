@@ -1,5 +1,5 @@
 
-# 🔓 Finding 02 – Insecure Direct Object Reference (IDOR): Unauthorized Basket Access
+# 🔓 02 – Insecure Direct Object Reference (IDOR): Unauthorized Basket Access
 
 ---
 

@@ -121,6 +121,14 @@ This simulation reflects how overlooked web flaws—when chained together—can 
 
 ---
 
+Here's your updated executive summary with the contact email added at the end:
+
+---
+
 ## 📬 Contact
 
 Feel free to connect if you'd like to discuss this project, red teaming, or offensive web app security.
+📧 **Email**: [pashtenisha33@gmail.com](mailto:pashtenisha33@gmail.com)
+
+
+

@@ -35,14 +35,20 @@ To view:
 
 ---
 
-## 🚨 Sample Vulnerabilities Identified
+## 🚨  Vulnerabilities Identified
 
-| 🔎 Issue                      | ⚠️ Risk Level | 🔍 Description                               |
-| ----------------------------- | ------------- | -------------------------------------------- |
-| Missing Security Headers      | Medium        | CSP and HSTS headers not configured          |
-| Reflected XSS on Input Fields | High          | Unsanitized user input rendered in responses |
-| Insecure Cookies              | Low           | Flags like `HttpOnly`/`Secure` not set       |
-| Verbose Server Info           | Medium        | Stack traces or detailed error disclosures   |
+| Alert Type                                   | Risk Level | Count   |
+| -------------------------------------------- | ---------- | ------- |
+| Content Security Policy (CSP) Header Not Set | 🟠 Medium  | 57      |
+| Cross-Domain Misconfiguration                | 🟠 Medium  | 73      |
+| Hidden File Found                            | 🟠 Medium  | 4       |
+| Cross-Domain JavaScript File Inclusion       | 🟡 Low     | 98      |
+| Timestamp Disclosure (Unix)                  | 🟡 Low     | 158     |
+| Suspicious Comments (Information Disclosure) | 🔵 Info    | 2       |
+| Modern Web Application Fingerprint           | 🔵 Info    | 50      |
+| User Agent Fuzzer                            | 🔵 Info    | 24      |
+| **Total Alerts**                             |            | **466** |
+
 
 ---
 

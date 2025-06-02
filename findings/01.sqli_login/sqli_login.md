@@ -1,5 +1,5 @@
 
-# 🛡️ Finding 01 – SQL Injection: Admin Login Bypass
+# 🛡️ 01 – SQL Injection: Admin Login Bypass
 
 ---
 

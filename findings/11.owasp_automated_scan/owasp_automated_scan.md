@@ -17,7 +17,7 @@
 
 ### ⚙️ Active Scan Running
 
-<img src="../screenshots/zap-active-scan-running.png" alt="OWASP ZAP Active Scan in Progress" width="700" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
+<img src="zap-active-scan-running.png" alt="OWASP ZAP Active Scan in Progress" width="700" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
 
 ---
 

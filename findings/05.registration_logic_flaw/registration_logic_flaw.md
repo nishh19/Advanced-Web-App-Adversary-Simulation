@@ -1,5 +1,5 @@
 
-# 🛡️ 05 – Registration Logic Flaw: Bypassing Password Confirmation Validation
+# 🛡️ 05 : Registration Logic Flaw: Bypassing Password Confirmation Validation
 
 ## 🔍 Summary
 
@@ -88,7 +88,7 @@ Logged in using only the **updated password** (`ChangedPass456`)—proving the b
 
 ## 🧠 Key Takeaway
 
-Security should **never rely solely on frontend validation**. This vulnerability reflects a common mistake—**trusting the client** to enforce critical logic that must be verified server-side.
+Security should **never rely solely on frontend validation**. This vulnerability reflects a common mistake **trusting the client** to enforce critical logic that must be verified server-side.
 
 ---
 

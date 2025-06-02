@@ -1,7 +1,7 @@
 
 # 🛡️ Advanced Web App Adversary Simulation: OWASP Juice Shop Exploitation
 
-This project demonstrates a Red Team–style simulation against a deliberately vulnerable web application—[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)—highlighting real-world attack chains that map to **OWASP Top 10** and **MITRE ATT&CK** tactics.
+This project demonstrates a Red Team–style simulation against a deliberately vulnerable web application [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) highlighting real-world attack chains that map to **OWASP Top 10** and **MITRE ATT&CK** tactics.
 
 📍 **Target**: OWASP Juice Shop (Docker-hosted)  
 🖥️ **Attacker**: Kali Linux (Manual + Scripted Attacks)  
@@ -101,7 +101,6 @@ Each `findings/` subfolder contains:
 
 ---
 
-## 🏁 Final Notes
 
 This simulation reflects how overlooked web flaws—when chained together—can lead to significant business impact. In a real-world scenario, these could compromise **PII**, **revenue**, and **system trust**.
 

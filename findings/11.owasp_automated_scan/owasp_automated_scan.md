@@ -1,8 +1,6 @@
-Great! Since you only ran the **Active Scan** in OWASP ZAP (without a Spider), here’s an updated and **clean, impactful version** of the `README.md` section for **Finding 11 – OWASP ZAP Active Scan**, tailored for your GitHub project:
 
----
 
-# 🤖 Finding 11 – Automated Vulnerability Scan with OWASP ZAP (Active Scan Only)
+# 🤖 11 – Automated Vulnerability Scan with OWASP ZAP (Active Scan Only)
 
 > 🛡️ **Category:** Automated Reconnaissance
 > 🎯 **Target:** [`http://192.168.0.105:3000`](http://192.168.0.105:3000)

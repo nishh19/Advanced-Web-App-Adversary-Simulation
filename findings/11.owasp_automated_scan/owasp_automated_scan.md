@@ -1,6 +1,6 @@
 
 
-# 🤖 11 – Automated Vulnerability Scan with OWASP ZAP (Active Scan Only)
+# 🤖 11 : Automated Vulnerability Scan with OWASP ZAP (Active Scan Only)
 
 > 🛡️ **Category:** Automated Reconnaissance
 > 🎯 **Target:** [`http://192.168.0.105:3000`](http://192.168.0.105:3000)
@@ -9,7 +9,7 @@
 
 ## 🧰 Tool: OWASP ZAP – Active Scan Mode
 
-**OWASP ZAP** (Zed Attack Proxy) is a flagship OWASP tool used to automatically find security vulnerabilities in web apps during penetration testing. In this case, only the **Active Scan** was performed — meaning no crawling (spider) phase was run. The attack relied on the user-provided entry points.
+**OWASP ZAP** (Zed Attack Proxy) is a flagship OWASP tool used to automatically find security vulnerabilities in web apps during penetration testing. In this case, only the **Active Scan** was performed - meaning no crawling (spider) phase was run. The attack relied on the user-provided entry points.
 
 ---
 

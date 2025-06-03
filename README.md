@@ -120,9 +120,6 @@ This simulation reflects how overlooked web flaws—when chained together—can 
 
 > ✅ Built to demonstrate practical security testing, automation, and reporting proficiency—all in one project.
 
----
-
-Here's your updated executive summary with the contact email added at the end:
 
 ---
 

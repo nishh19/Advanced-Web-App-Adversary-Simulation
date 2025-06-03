@@ -44,27 +44,28 @@ This project demonstrates a Red Team–style simulation against a deliberately v
 ## 📂 Repository Structure
 
 ```plaintext
-📁 Advanced-Web-App-Adversary-Simulation
-├── 📁 [findings](findings/)
-│   ├── [01-sqli-login](findings/01-sqli-login/)
-│   ├── [02-idor-basket-access](findings/02-idor-basket-access/)
-│   ├── [03-path-traversal-confidential-docs](findings/03-path-traversal-confidential-docs/)
-│   ├── [04-xss-document-cookie](findings/04-xss-document-cookie/)
-│   ├── [05-registration-logic-flaw](findings/05-registration-logic-flaw/)
-│   ├── [06-captcha-bypass-feedback-spam](findings/06-captcha-bypass-feedback-spam/)
-│   ├── [07-price-manipulation-rich-order](findings/07-price-manipulation-rich-order/)
-│   ├── [08-ftp-malware-links](findings/08-ftp-malware-links/)
-│   ├── [09-user-enumeration-forgot-pass](findings/09-user-enumeration-forgot-pass/)
-│   ├── [10-missing-security-headers](findings/10-missing-security-headers/)
-│   └── [11-owasp-zap-automated-scan](findings/11-owasp-zap-automated-scan/)
-├── 📁 [automation](automation/)
+Advanced-Web-App-Adversary-Simulation/
+├── findings/
+│   ├── 01-sqli-login/
+│   ├── 02-idor-basket-access/
+│   ├── 03-path-traversal-confidential-docs/
+│   ├── 04-xss-document-cookie/
+│   ├── 05-registration-logic-flaw/
+│   ├── 06-captcha-bypass-feedback-spam/
+│   ├── 07-price-manipulation-rich-order/
+│   ├── 08-ftp-malware-links/
+│   ├── 09-user-enumeration-forgot-pass/
+│   ├── 10-missing-security-headers/
+│   └── 11-owasp-zap-automated-scan/
+├── automation/
 │   └── feedback_spam_script.py
-├── 📁 [zap_reports](zap_reports/)
+├── zap_reports/
 │   ├── zap_scan_report.html
 │   ├── normalize.css
 │   ├── main.css
 │   └── colors.css
-├── README.md
+└── README.md
+
 ```
 
 Each `findings/` subfolder contains:
